@@ -4,6 +4,6 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 ## inserte aqui linea
 ## esta linea nueva
 ## Notas
-Pueden hacer lo que quieran...
+git config --global pull.ff only
 
 ## cambio para validar el git push
